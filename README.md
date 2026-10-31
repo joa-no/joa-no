@@ -1,7 +1,5 @@
  <div align="center">
 
-# joa-no
-
 ### Aprendendo, experimentando e transformando ideias em código.
 
 <p>
@@ -123,5 +121,3 @@ Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do 
 
 
 
-![GitHub Snake dark](https://github.com/joa-no/joa-no/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Light](https://github.com/joa-no/joa-no/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
