@@ -1,39 +1,133 @@
-<img align="left" src="https://github.com/joa-no.png?size=300" width="150" alt="Foto de perfil de joa-no">
+ <div align="center">
 
 # joa-no
 
-**Aprendendo Lua** • explorando programação e desenvolvimento de jogos
+### Aprendendo, experimentando e transformando ideias em código.
 
-### Sobre
+<p>
+  <img src="https://img.shields.io/badge/Lua-Estudando-8B80F9?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desenvolvimento-Explorando-438CCB?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-Projetos%20pessoais-252A36?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-Curioso por natureza e movido por café e música ambiente. Gosto de entender como as coisas funcionam por baixo dos panos. Estou construindo minha base em programação e aos poucos transformando ideias simples em pequenos jogos e ferramentas úteis.
-
-📍 Brasil &nbsp;·&nbsp; 🕒 UTC-3 &nbsp;·&nbsp; ☀️ Foco: aprender todo dia um pouco
-
-<br clear="left">
-
-## ✨ No momento
-
-> Aprofundando **Lua** e criando pequenos projetos.
->
-> - Estudando fundamentos de Lua
-> - Praticando lógica e estruturas de dados
-> - Desenvolvendo um jogo 2D simples
-> - Explorando sistemas e ferramentas
-
-## 💻 Tecnologias em estudo
-
-`Lua` &nbsp; `Git` &nbsp; `VS Code` &nbsp; `Linux` &nbsp; `Arquitetura` &nbsp; `Algoritmos` &nbsp; `Sistemas`
-
-## 📁 Projetos
-
-| 🎮 **meu-jogo-2d** `Privado` | 🖥️ **minhas-ferramentas** `Privado` |
-| :--- | :--- |
-| Jogo 2D simples feito em Lua para praticar mecânicas básicas. | Coleção de pequenos scripts e ferramentas que uso no dia a dia. |
-| 🟣 Lua | 🟣 Lua |
-
-[Ver todos os repositórios →](https://github.com/joa-no?tab=repositories)
+</div>
 
 ---
 
-<p align="center"><i>"Um passo de cada vez, todo dia."</i> &nbsp;·&nbsp; Obrigado por visitar! 🤍</p>
+## Sobre
+
+Sou alguém curioso por tecnologia, interessado em entender como as coisas funcionam e transformar ideias em projetos.
+
+Atualmente, estou dando meus primeiros passos na programação, com foco em **Lua** e no desenvolvimento de jogos.
+
+Não tenho pressa em dominar tudo. Prefiro aprender os fundamentos, experimentar possibilidades e construir algo próprio ao longo do caminho.
+
+<table>
+<tr>
+<td width="50%">
+
+**Atualmente estudando**
+
+- Fundamentos de Lua
+- Lógica de programação
+- Estruturas de dados
+- Organização de código
+
+</td>
+<td width="50%">
+
+**Explorando**
+
+- Desenvolvimento de jogos 2D
+- LÖVE2D
+- Arquitetura de software
+- Criação de ferramentas próprias
+
+</td>
+</tr>
+</table>
+
+---
+
+## No momento
+
+<table>
+<tr>
+<td width="110" align="center">
+<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+</td>
+<td>
+
+**Aprofundando meus conhecimentos em Lua**
+
+Estudando a linguagem desde os fundamentos e explorando seu potencial para criar sistemas, ferramentas e jogos.
+
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=for-the-badge&logo=love&logoColor=black" />
+</td>
+<td>
+
+**Explorando desenvolvimento de jogos**
+
+Experimentando o LÖVE2D e estudando como construir experiências interativas utilizando Lua.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tecnologias e ferramentas
+
+**Linguagem principal em estudo**
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
+</p>
+
+**Ferramentas e tecnologias exploradas**
+
+<p>
+  <img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=flat-square&logo=love&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Projetos
+
+Meus repositórios são um espaço para experimentação, aprendizado e desenvolvimento de ideias.
+
+Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do processo.
+
+<div align="center">
+
+<a href="https://github.com/joa-no?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar%20repositórios-8B80F9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/joa-no">
+  <img src="https://img.shields.io/badge/GitHub-joa--no-242938?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*Aprendendo um pouco mais a cada projeto.*
+
+---
+
+<sub>Um passo de cada vez. Sem pressa, sem atalhos.</sub>
+
+</div>
