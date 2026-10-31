@@ -8,28 +8,31 @@
 
 Curioso por natureza e movido por café e música ambiente. Gosto de entender como as coisas funcionam por baixo dos panos. Estou construindo minha base em programação e aos poucos transformando ideias simples em pequenos jogos e ferramentas úteis.
 
-📍 Brasil &nbsp;&nbsp;·&nbsp;&nbsp; 🕒 UTC-3 &nbsp;&nbsp;·&nbsp;&nbsp; ☀️ Foco: aprender todo dia um pouco
+📍 Brasil &nbsp;·&nbsp; 🕒 UTC-3 &nbsp;·&nbsp; ☀️ Foco: aprender todo dia um pouco
 
 <br clear="left">
 
-<img src="assets/no-momento.svg" width="100%" alt="No momento: aprofundando Lua e criando pequenos projetos com LÖVE2D. Estudando fundamentos de Lua, praticando lógica e estruturas de dados, desenvolvendo um jogo 2D simples e explorando sistemas e ferramentas.">
+## ✨ No momento
 
-## Tecnologias em estudo
+> Aprofundando **Lua** e criando pequenos projetos.
+>
+> - Estudando fundamentos de Lua
+> - Praticando lógica e estruturas de dados
+> - Desenvolvendo um jogo 2D simples
+> - Explorando sistemas e ferramentas
 
-<img src="assets/tecnologias.svg" width="100%" alt="Lua, LÖVE2D, Git, VS Code, Linux, Arquitetura, Algoritmos e Sistemas">
+## 💻 Tecnologias em estudo
 
-## Projetos
+`Lua` &nbsp; `Git` &nbsp; `VS Code` &nbsp; `Linux` &nbsp; `Arquitetura` &nbsp; `Algoritmos` &nbsp; `Sistemas`
 
-<p>
-<img src="assets/projeto-meu-jogo-2d.svg" width="49%" alt="meu-jogo-2d (privado): jogo 2D simples feito com LÖVE2D para praticar mecânicas básicas. Lua.">
-<img src="assets/projeto-minhas-ferramentas.svg" width="49%" alt="minhas-ferramentas (privado): coleção de pequenos scripts e ferramentas que uso no dia a dia. Lua.">
-</p>
+## 📁 Projetos
+
+| 🎮 **meu-jogo-2d** `Privado` | 🖥️ **minhas-ferramentas** `Privado` |
+| :--- | :--- |
+| Jogo 2D simples feito em Lua para praticar mecânicas básicas. | Coleção de pequenos scripts e ferramentas que uso no dia a dia. |
+| 🟣 Lua | 🟣 Lua |
 
 [Ver todos os repositórios →](https://github.com/joa-no?tab=repositories)
-
-## Atividade no GitHub
-
-<img src="assets/atividade.svg" width="100%" alt="Atividade no GitHub: total de contribuições, repositórios públicos, commits, pull requests, issues abertas e mapa de contribuições dos últimos 365 dias.">
 
 ---
 
