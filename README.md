@@ -1,25 +1,5 @@
-<div align="center">
+## 📊 Estatísticas
 
-# 💻 system.lua
+[![Estatísticas do joa-no](https://github-readme-stats.vercel.app/api?username=joa-no&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/joa-no)
 
-> *“Simplicidade é a sofisticação máxima.”*
-
-</div>
-
----
-
-### 🌑 Exploração
-
-- 🚀 Estudando e estruturando lógica em **Lua**.
-- 🛠️ Foco total em autonomia, código modular e arquiteturas limpas.
-
----
-
-### ⚡ Tecnologias
-
-```lua
-local focus = {
-    language = "Lua",
-    paradigm = "Modular",
-    environment = "Independent"
-}
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joa-no&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/joa-no)
