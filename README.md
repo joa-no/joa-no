@@ -1,47 +1,46 @@
- <div align="center">
+<div align="center">
 
-# joa-no
+<img src="./assets/profile-header.svg" width="100%" alt="joa-no — aprendendo Lua, explorando ideias e construindo aos poucos" />
 
-### Aprendendo, experimentando e transformando ideias em código.
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Lua-Estudando-8B80F9?style=flat-square&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desenvolvimento-Explorando-438CCB?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-Projetos%20pessoais-252A36?style=flat-square&logo=github&logoColor=white" />
-</p>
+<sub>Um espaço pessoal para registrar aprendizados, experimentos e projetos.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/joa-no?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITÓRIOS-1C2433?style=for-the-badge&logo=github&logoColor=A99CFF" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/LINGUAGEM%20EM%20ESTUDO-LUA-25205A?style=for-the-badge&logo=lua&logoColor=C4B9FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/FOCO-APRENDIZADO-172B3A?style=for-the-badge&logo=target&logoColor=70C7ED" />
 
 </div>
 
----
+<br/>
 
-## Sobre
-
-Sou alguém curioso por tecnologia, interessado em entender como as coisas funcionam e transformar ideias em projetos.
-
-Atualmente, estou dando meus primeiros passos na programação, com foco em **Lua** e no desenvolvimento de jogos.
-
-Não tenho pressa em dominar tudo. Prefiro aprender os fundamentos, experimentar possibilidades e construir algo próprio ao longo do caminho.
+## `01` — Sobre
 
 <table>
 <tr>
-<td width="50%">
+<td width="62%" valign="top">
 
-**Atualmente estudando**
+Sou uma pessoa curiosa por tecnologia e gosto de entender como as coisas funcionam por trás da interface.
 
-- Fundamentos de Lua
-- Lógica de programação
-- Estruturas de dados
-- Organização de código
+Estou começando minha jornada na programação. Meu foco atual é aprender **Lua**, fortalecer minha lógica e descobrir, na prática, como transformar ideias em projetos.
+
+Não estou aqui para montar um currículo. Este perfil é um espaço para experimentar, aprender e guardar o que construo pelo caminho.
 
 </td>
-<td width="50%">
+<td width="38%" valign="top">
 
-**Explorando**
+### Em poucas palavras
 
-- Desenvolvimento de jogos 2D
-- LÖVE2D
-- Arquitetura de software
-- Criação de ferramentas próprias
+- Aprendizado independente
+- Projetos experimentais
+- Interesse em desenvolvimento de jogos
+- Curiosidade por sistemas e ferramentas
 
 </td>
 </tr>
@@ -49,30 +48,38 @@ Não tenho pressa em dominar tudo. Prefiro aprender os fundamentos, experimentar
 
 ---
 
-## No momento
+## `02` — Agora
 
 <table>
 <tr>
-<td width="110" align="center">
-<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/01-8B80F9?style=flat-square" /> Lua
+
+Estudando os fundamentos da linguagem, sintaxe, funções, tabelas, módulos e organização de código.
+
 </td>
-<td>
+<td width="50%" valign="top">
 
-**Aprofundando meus conhecimentos em Lua**
+### <img src="https://img.shields.io/badge/02-438CCB?style=flat-square" /> Desenvolvimento 2D
 
-Estudando a linguagem desde os fundamentos e explorando seu potencial para criar sistemas, ferramentas e jogos.
+Explorando o **LÖVE2D** para entender a estrutura de jogos, seus ciclos, entradas e elementos visuais.
 
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=for-the-badge&logo=love&logoColor=black" />
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/03-438CCB?style=flat-square" /> Lógica
+
+Praticando resolução de problemas e construindo uma base sólida antes de avançar.
+
 </td>
-<td>
+<td width="50%" valign="top">
 
-**Explorando desenvolvimento de jogos**
+### <img src="https://img.shields.io/badge/04-8B80F9?style=flat-square" /> Experimentação
 
-Experimentando o LÖVE2D e estudando como construir experiências interativas utilizando Lua.
+Testando ideias próprias, mesmo quando ainda não sei exatamente como chegar ao resultado.
 
 </td>
 </tr>
@@ -80,54 +87,84 @@ Experimentando o LÖVE2D e estudando como construir experiências interativas ut
 
 ---
 
-## Tecnologias e ferramentas
+## `03` — Minha caixa de ferramentas
 
-**Linguagem principal em estudo**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
-</p>
+| Categoria | Tecnologias |
+|:--|:--|
+| **Linguagem em estudo** | <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" /> |
+| **Desenvolvimento 2D** | <img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=flat-square&logo=love&logoColor=black" /> |
+| **Versionamento** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-242938?style=flat-square&logo=github&logoColor=white" /> |
 
-**Ferramentas e tecnologias exploradas**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=flat-square&logo=love&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+<sub>As tecnologias acima representam ferramentas que estou estudando ou explorando — não uma lista de especialidades.</sub>
 
 ---
 
-## Projetos
+## `04` — Projetos e experimentos
 
-Meus repositórios são um espaço para experimentação, aprendizado e desenvolvimento de ideias.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do processo.
+### <img src="https://img.shields.io/badge/EXPLORAÇÃO-25205A?style=flat-square" />
+
+**CodeLove**
+
+Um repositório relacionado ao LÖVE para Android.
+
+<a href="https://github.com/joa-no/CodeLove">Ver repositório →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/EM%20CONSTRUÇÃO-172B3A?style=flat-square" />
+
+**Próximas experiências**
+
+Pequenos projetos em Lua, testes com jogos 2D e ferramentas criadas durante o aprendizado.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 <a href="https://github.com/joa-no?tab=repositories">
-  <img src="https://img.shields.io/badge/Explorar%20repositórios-8B80F9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSITÓRIOS-30285E?style=for-the-badge&logo=github&logoColor=D4CCFF" />
 </a>
 
 </div>
 
 ---
 
-## GitHub
+## `05` — Atividade
 
 <div align="center">
 
 <a href="https://github.com/joa-no">
-  <img src="https://img.shields.io/badge/GitHub-joa--no-242938?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joa-no&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99CFF&text_color=B9C4D5&icon_color=70C7ED&rank_icon=github" height="160" alt="Estatísticas do GitHub" />
+</a>
+<a href="https://github.com/joa-no">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa-no&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99CFF&text_color=B9C4D5" height="160" alt="Linguagens mais usadas" />
 </a>
 
-<br/><br/>
+</div>
 
-*Aprendendo um pouco mais a cada projeto.*
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joa-no&bg_color=0D1117&color=B9C4D5&line=8B80F9&point=70C7ED&area=true&area_color=30285E&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub" />
+
+</div>
 
 ---
 
-<sub>Um passo de cada vez. Sem pressa, sem atalhos.</sub>
+<div align="center">
+
+*“Um passo de cada vez. Sem pressa, sem atalhos.”*
+
+<sub>Obrigado por passar por aqui.</sub>
 
 </div>
