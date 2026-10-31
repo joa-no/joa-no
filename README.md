@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=joa-no&show_icons=true&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=joa-no&show_icons=true&theme=dark&hide_border=true)" alt="Estatísticas" height="140"/>
-</div>
 
 
 ---
@@ -21,5 +18,6 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas" height="140"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=joa-no&show_icons=true&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=joa-no&show_icons=true&theme=dark&hide_border=true)" alt="Estatísticas" height="140"/>
 </div>
+
