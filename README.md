@@ -113,7 +113,7 @@ Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do 
 
 ---
 
-<sub>Um passo de cada vez. Sem pressa, sem atalhos.</sub>
+<sub>Um passo de cada vez.</sub>
 
 </div>
 
