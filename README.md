@@ -1,7 +1,5 @@
  <div align="center">
 
-### Aprendendo, experimentando e transformando ideias em código.
-
 <p>
   <img src="https://img.shields.io/badge/Lua-Estudando-8B80F9?style=flat-square&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/Desenvolvimento-Explorando-438CCB?style=flat-square" />
