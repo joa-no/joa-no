@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 42" width="980" height="42" role="img" aria-label="Tecnologias em estudo: Lua, LÖVE2D, Git, VS Code, Linux, Arquitetura, Algoritmos, Sistemas" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+  <title>Tecnologias em estudo: Lua, LÖVE2D, Git, VS Code, Linux, Arquitetura, Algoritmos, Sistemas</title>
+  <rect x="1.0" y="2" width="79.4" height="38" rx="19.0" fill="#17152b" stroke="#8b7cf6" stroke-width="1.5"/>
+  <g transform="translate(17.0 13.0)"><circle cx="8" cy="8" r="7" fill="#8b7cf6"/></g>
+  <text x="41.0" y="26.0" font-size="14" fill="#e6edf3">Lua</text>
+  <rect x="92.4" y="2" width="111.2" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <g transform="translate(108.4 13.0)"><path d="M8 14C8 14 1.5 9.8 1.5 5.6C1.5 3.4 3.2 2 5 2C6.3 2 7.4 2.7 8 3.7C8.6 2.7 9.7 2 11 2C12.8 2 14.5 3.4 14.5 5.6C14.5 9.8 8 14 8 14Z" fill="#b8a6ff"/></g>
+  <text x="132.4" y="26.0" font-size="14" fill="#e6edf3">LÖVE2D</text>
+  <rect x="215.6" y="2" width="73.9" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <g transform="translate(231.6 13.0)"><g fill="none" stroke="#f05133" stroke-width="1.6" stroke-linecap="round"><circle cx="4" cy="3.6" r="1.8"/><circle cx="4" cy="12.4" r="1.8"/><circle cx="12" cy="6" r="1.8"/><line x1="4" y1="5.4" x2="4" y2="10.6"/><path d="M12 7.8C12 10.4 4 8.4 4 10.6"/></g></g>
+  <text x="255.6" y="26.0" font-size="14" fill="#e6edf3">Git</text>
+  <rect x="301.5" y="2" width="112.0" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <g transform="translate(317.5 13.0)"><path d="M11.6 1.2L14.8 2.8V13.2L11.6 14.8L5 9.4L2.6 11.3L1.2 10.5V5.5L2.6 4.7L5 6.6Z" fill="#3b9cf0"/><path d="M11.6 4.8L7.2 8L11.6 11.2Z" fill="#111826"/></g>
+  <text x="341.5" y="26.0" font-size="14" fill="#e6edf3">VS Code</text>
+  <rect x="425.5" y="2" width="89.5" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <g transform="translate(441.5 13.0)"><ellipse cx="8" cy="8.4" rx="4.3" ry="6" fill="#2b2f38" stroke="#4a5160" stroke-width=".6"/><ellipse cx="8" cy="10" rx="2.6" ry="3.6" fill="#f2f2f2"/><path d="M6.9 6.2L9.1 6.2L8 7.6Z" fill="#f5a524"/><circle cx="6.7" cy="4.7" r=".9" fill="#fff"/><circle cx="9.3" cy="4.7" r=".9" fill="#fff"/><ellipse cx="5.4" cy="14.6" rx="2" ry=".9" fill="#f5a524"/><ellipse cx="10.6" cy="14.6" rx="2" ry=".9" fill="#f5a524"/></g>
+  <text x="465.5" y="26.0" font-size="14" fill="#e6edf3">Linux</text>
+  <rect x="527.0" y="2" width="100.5" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <text x="543.0" y="26.0" font-size="14" fill="#e6edf3">Arquitetura</text>
+  <rect x="639.5" y="2" width="98.1" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <text x="655.5" y="26.0" font-size="14" fill="#e6edf3">Algoritmos</text>
+  <rect x="749.6" y="2" width="89.6" height="38" rx="19.0" fill="#111826" stroke="#2a3140" stroke-width="1"/>
+  <text x="765.6" y="26.0" font-size="14" fill="#e6edf3">Sistemas</text>
+</svg>
