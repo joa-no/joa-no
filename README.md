@@ -120,3 +120,8 @@ Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do 
 <sub>Um passo de cada vez. Sem pressa, sem atalhos.</sub>
 
 </div>
+
+
+
+![GitHub Snake dark](https://github.com/joa-no/joa-no/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/joa-no/joa-no/blob/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
