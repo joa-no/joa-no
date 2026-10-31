@@ -14,7 +14,7 @@
 ---
 
 
-**Atualmente estudando**
+**📚Atualmente estudando**
 
 - Fundamentos de Lua
 - Lógica de programação
@@ -23,17 +23,6 @@
 
 </td>
 <td width="50%">
-
-**Explorando**
-
-- Desenvolvimento de jogos 2D
-- LÖVE2D
-- Arquitetura de software
-- Criação de ferramentas próprias
-
-</td>
-</tr>
-</table>
 
 ---
 
