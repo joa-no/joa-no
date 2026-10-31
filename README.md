@@ -14,17 +14,6 @@
 
 ---
 
-## Sobre
-
-Sou alguém curioso por tecnologia, interessado em entender como as coisas funcionam e transformar ideias em projetos.
-
-Atualmente, estou dando meus primeiros passos na programação, com foco em **Lua** e no desenvolvimento de jogos.
-
-Não tenho pressa em dominar tudo. Prefiro aprender os fundamentos, experimentar possibilidades e construir algo próprio ao longo do caminho.
-
-<table>
-<tr>
-<td width="50%">
 
 **Atualmente estudando**
 
