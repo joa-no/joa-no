@@ -39,9 +39,6 @@
 
 Estudando a linguagem desde os fundamentos e explorando seu potencial para criar sistemas, ferramentas e jogos.
 
-</td>
-</tr>
-
 ---
 
 ## Tecnologias e ferramentas
