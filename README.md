@@ -26,7 +26,7 @@
 
 ---
 
-**📌Linguagem principal**
+## Linguagem principal
 
 <p>
   <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
