@@ -34,16 +34,7 @@
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
 </td>
 <td>
-<tr>
- 
-**Aprofundando meus conhecimentos em Lua**
 
-Estudando a linguagem desde os fundamentos e explorando seu potencial para criar sistemas, ferramentas e jogos.
-
-</td>
-<td>
-<tr>
----
 
 ## Tecnologias e ferramentas
 
