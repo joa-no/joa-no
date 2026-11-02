@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
 </td>
 <td>
+<tr>
 
 
 ## Tecnologias e ferramentas
@@ -42,14 +43,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
-</p>
-
-**Ferramentas e tecnologias exploradas**
-
-<p>
-  <img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=flat-square&logo=love&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
