@@ -41,25 +41,12 @@ Estudando a linguagem desde os fundamentos e explorando seu potencial para criar
 
 </td>
 </tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/LÖVE2D-FFB13B?style=for-the-badge&logo=love&logoColor=black" />
-</td>
-<td>
-
-**Explorando desenvolvimento de jogos**
-
-Experimentando o LÖVE2D e estudando como construir experiências interativas utilizando Lua.
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## Tecnologias e ferramentas
 
-**Linguagem principal em estudo**
+**Linguagem principal**
 
 <p>
   <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
