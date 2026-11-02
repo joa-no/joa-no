@@ -26,8 +26,6 @@
 
 ---
 
-## No momento
-
 <table>
 <tr>
 <td width="110" align="center">
