@@ -31,8 +31,8 @@
 <td width="110" align="center">
 <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
 </td>
-<td>
 <tr>
+<td>
 
 
 ## Linguagem principal
