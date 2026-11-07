@@ -12,19 +12,6 @@
 
 ---
 
-
-**📚Atualmente estudando**
-
-- Fundamentos de Lua
-- Lógica de programação
-- Estruturas de dados
-- Organização de código
-
-</td>
-<td width="50%">
-
----
-
 ## Linguagem principal
 
 <p>
