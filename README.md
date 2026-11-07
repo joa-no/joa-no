@@ -4,7 +4,7 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/Lua--8B80F9?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-Estudando-8B80F9?style=flat-square&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Projetos%20pessoais-252A36?style=flat-square&logo=github&logoColor=white" />
 </p>
 
