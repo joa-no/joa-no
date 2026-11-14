@@ -29,12 +29,8 @@ Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do 
 <a href="https://github.com/joa-no">
   <img src="https://img.shields.io/badge/GitHub-joa--no-242938?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-
 <br/><br/>
-
 *Aprendendo um pouco mais a cada projeto.*
-
 ---
 
 </div>
