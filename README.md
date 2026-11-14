@@ -6,7 +6,7 @@
 
 I build useful things, explore ideas, and learn by making them real.
 
-[**Seoga**](https://github.com/joa-no/Seoga) · [**CodeLove**](https://github.com/joa-no/CodeLove) · [**All repositories**](https://github.com/joa-no?tab=repositories)
+[Explore my repositories](https://github.com/joa-no?tab=repositories)
 
 </div>
 
@@ -35,6 +35,5 @@ This space brings together finished apps, ongoing work, and experiments. I care 
 
 **Build. Test. Improve.**
 
-[Explore my projects](https://github.com/joa-no?tab=repositories)
 
 </div>
