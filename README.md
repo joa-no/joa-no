@@ -20,10 +20,23 @@ This space brings together finished apps, ongoing work, and experiments. I care 
 
 ### Featured projects
 
-| Project | Description | Technology |
-| :-- | :-- | :-- |
-| **[Seoga](https://github.com/joa-no/Seoga)** | An offline-first Android catalog for manga and comics, with reading progress, collections, and local backups. **[Get v1.0](https://github.com/joa-no/Seoga/releases/tag/v1.0)** | Kotlin · Jetpack Compose |
-| **[CodeLove](https://github.com/joa-no/CodeLove)** | An Android workspace for editing Lua code and running projects with the LÖVE framework. **In development.** | Java · Lua · LÖVE |
+| App | Project | Technology |
+| :---: | :--- | :--- |
+| <a href="https://github.com/joa-no/Seoga"><img src="https://raw.githubusercontent.com/joa-no/Seoga/main/assets/icon.jpg" alt="Seoga app icon" width="88"></a> | **[Seoga](https://github.com/joa-no/Seoga)**<br>An offline-first Android catalog for manga and comics. Track reading progress, organize collections, and keep local backups.<br>**[Download v1.0](https://github.com/joa-no/Seoga/releases/tag/v1.0)** | Kotlin · Jetpack Compose |
+| <a href="https://github.com/joa-no/CodeLove"><img src="https://raw.githubusercontent.com/joa-no/CodeLove/main/app/src/main/res/drawable-xxxhdpi/codelove_logo.png" alt="CodeLove logo" width="88"></a> | **[CodeLove](https://github.com/joa-no/CodeLove)**<br>An Android workspace for editing Lua code and running projects with the LÖVE framework.<br>**In development** | Java · Lua · LÖVE |
+
+<details>
+<summary><strong>Seoga screenshots</strong> — preview the Android interface</summary>
+
+<p align="center">
+  <a href="https://github.com/joa-no/Seoga"><img src="https://raw.githubusercontent.com/joa-no/Seoga/main/screenshots/library.jpg" alt="Seoga library screen" width="190"></a>
+  &nbsp;
+  <a href="https://github.com/joa-no/Seoga"><img src="https://raw.githubusercontent.com/joa-no/Seoga/main/screenshots/collections.jpg" alt="Seoga collections screen" width="190"></a>
+  &nbsp;
+  <a href="https://github.com/joa-no/Seoga"><img src="https://raw.githubusercontent.com/joa-no/Seoga/main/screenshots/settings.jpg" alt="Seoga settings screen" width="190"></a>
+</p>
+
+</details>
 
 ### Tools & interests
 
