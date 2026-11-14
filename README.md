@@ -32,9 +32,10 @@ Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do 
 
 
 
-<a>
+<p>
+ 
   <img src="https://img.shields.io/badge/GitHub-Projetos%20pessoais-252A36?style=flat-square&logo=github&logoColor=white" />
-</a>
+</p>
 
 <br/><br/>
 
