@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/haunter.webp" alt="Purple pixel-art ghost mascot" width="240">
+<img src="assets/haunter.gif" alt="Purple pixel-art ghost mascot" width="240">
 
 # joa-no
 
