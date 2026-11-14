@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/haunter.webp" alt="Purple pixel-art ghost mascot" width="240">
-
 # joa-no
 
 **Independent creator · Android apps · Creative tools**
