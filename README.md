@@ -2,11 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=14&pause=1000&color=6DFF88&center=true&vCenter=true&multiline=true&width=435&lines=An+amateur+at+everything%2C+a+creator+of+some+things" alt="Typing SVG" /></a>
 
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-Projetos%20pessoais-252A36?style=flat-square&logo=github&logoColor=white" />
-</p>
-
 </div>
 
 ---
@@ -34,6 +29,10 @@ Alguns projetos podem ser simples, outros mais ambiciosos. Todos fazem parte do 
 <a href="https://github.com/joa-no">
   <img src="https://img.shields.io/badge/GitHub-joa--no-242938?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Projetos%20pessoais-252A36?style=flat-square&logo=github&logoColor=white" />
+</p>
 
 <br/><br/>
 
