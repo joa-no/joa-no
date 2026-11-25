@@ -25,8 +25,8 @@ I build useful things, explore ideas, and learn by making them real.
 </td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/joa-no/CodeLove"><img src="assets/codelove-icon.svg" alt="CodeLove" width="88" /></a></td>
-<td><strong><a href="https://github.com/joa-no/CodeLove">CodeLove</a></strong><br>An Android workspace for writing Lua and running projects with LÖVE.<br><br><img src="https://img.shields.io/badge/In_development-7875F8?style=flat-square" alt="In development" /> <img src="https://img.shields.io/badge/Lua-242436?style=flat-square&logo=lua" alt="Lua" /></td>
+<td align="center"><a href="https://github.com/joa-no/CodeLove"><img src="https://raw.githubusercontent.com/joa-no/CodeLove/main/assets/icon-codelove.png" alt="CodeLove" width="88" /></a></td>
+<td><strong><a href="https://github.com/joa-no/CodeLove">CodeLove</a></strong><br>A native Lua and LÖVE development environment for Android.<br><br><a href="https://github.com/joa-no/CodeLove/releases/latest"><img src="https://img.shields.io/badge/Download-A78BFA?style=flat-square&logo=android&logoColor=white" alt="Download" /></a> <img src="https://img.shields.io/badge/Lua-242436?style=flat-square&logo=lua" alt="Lua" /></td>
 </tr>
 </table>
 
